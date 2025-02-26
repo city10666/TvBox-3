@@ -2,7 +2,7 @@
 
 {
   "残月影视": "免费分享，切勿付费购买 ",
-  "logo": "http://q2.qlogo.cn/headimg_dl?dst_uin=1771245847&spec=100",  
+  "logo": "http://q2.qlogo.cn/headimg_dl?dst_uin=1771245847&spec=100",
   "warningText": "温馨提示: 本接口由【残月影视】维护, 请勿用于任何商业用途，仅供学习交流 ",
   "sites": [
     {
@@ -52,7 +52,7 @@
       "ext": "./js/360.js"
     }
   ],
-  "lives": [{"group": "Tv Live", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS8xNzcxMjQ1ODQ3L1R2Qm94L21hc3Rlci90di50eHQ="] } ] } ], 
+  "lives": [{"group": "Tv Live", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS8xNzcxMjQ1ODQ3L1R2Qm94L21hc3Rlci90di50eHQ="] } ] } ],
   "parses": [
     {
       "name": "解析线路1",
@@ -67,7 +67,32 @@
     {
       "name": "解析线路3",
       "type": 0,
-      "url": "https://www.nanguady.cc/jiexi/jiexi-gf/?url="
+      "url": "https://jx.nnxv.cn/tv.php?url="
+    },
+    {
+      "name": "解析线路4",
+      "type": 0,
+      "url": "https://im1907.top/?jx="
+    },
+    {
+      "name": "解析线路5",
+      "type": 0,
+      "url": "https://jx.2s0.cn/player/?url="
+    },
+    {
+      "name": "解析线路6",
+      "type": 0,
+      "url": "https://jx.77flv.cc/?url="
+    },
+    {
+      "name": "解析线路7",
+      "type": 0,
+      "url": "https://jx.hls.one/?url="
+    },
+    {
+      "name": "解析线路8",
+      "type": 0,
+      "url": "https://openapi.973973.xyz/open/api_free/index?url="
     }
   ],
   "flags": [
@@ -311,4 +336,4 @@
     ],
     "wallpaper": "https://api.dujin.org/bing/1920.php"
 }
-  
+
